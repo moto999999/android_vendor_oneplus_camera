@@ -1,0 +1,4 @@
+## camera apps from OnePlus 9 Pro (LE2121_14.0.0.500(EX01)).
+
+my_product/app/OplusCamera/OplusCamera.apk:system_ext/priv-app/OplusCamera/OplusCamera.apk;OVERRIDES=Camera2,Aperture
+system_ext/priv-app/OplusAppPlatform/OplusAppPlatform.apk
